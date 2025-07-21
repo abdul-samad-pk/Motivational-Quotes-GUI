@@ -28,7 +28,8 @@ A sleek desktop application that fetches and displays **motivational quotes** fr
 
 ## 📸 Preview
 
-![App Screenshot](https://your-screenshot-url.com) <!-- Add your screenshot here -->
+![sample](https://github.com/user-attachments/assets/34170a28-c1e2-4987-917d-bb9b4195e11a)
+
 
 ---
 
