@@ -1,65 +1,80 @@
-💬 Motivational Quotes GUI (Python + Tkinter)
-A sleek desktop application that fetches and displays motivational quotes from quotewis.com using Python's Tkinter and BeautifulSoup.
+# 💬 Motivational Quotes GUI (Python + Tkinter)
 
-“One small positive thought in the morning can change your whole day.”
-— Author Unknown
+A sleek desktop application that fetches and displays **motivational quotes** from [quotewis.com](https://www.quotewis.com/random/motivational-quotes) using Python's Tkinter and BeautifulSoup.
 
-🚀 Features
-🧠 Randomly fetches motivational quotes from the web
+> “One small positive thought in the morning can change your whole day.”
+> — Author Unknown
 
-🎨 Clean and aesthetic user interface with custom styling
+---
 
-📜 Automatically displays both quote and author
+## 🚀 Features
 
-💡 Designed using Object-Oriented Programming
+* 🧠 Randomly fetches motivational quotes from the web
+* 🎨 Clean and aesthetic user interface with custom styling
+* 📜 Automatically displays both quote and author
+* 💡 Designed using Object-Oriented Programming
+* 🖱️ Simple, interactive experience – one click for inspiration!
 
-🖱️ Simple, interactive experience – one click for inspiration!
+---
 
-🛠️ Built With
-Python 3
+## 🛠️ Built With
 
-Tkinter – for GUI layout
+* **Python 3**
+* **Tkinter** – for GUI layout
+* **requests** – for HTTP requests
+* **BeautifulSoup (bs4)** – for web scraping
 
-requests – for HTTP requests
+---
 
-BeautifulSoup (bs4) – for web scraping
+## 📸 Preview
 
-📸 Preview
-![sample](https://github.com/user-attachments/assets/8f050df8-0352-4192-8b60-92d2b0d1fd5e)
+![App Screenshot](https://your-screenshot-url.com) <!-- Add your screenshot here -->
 
+---
 
-🧰 How to Run
-Clone the repository:
+## 🧰 How to Run
 
-bash
-Copy
-Edit
-git clone https://github.com/abdul-samad-pk/motivational-quotes-gui.git
-cd motivational-quotes-gui
-Install required libraries:
+1. **Clone the repository:**
 
-bash
-Copy
-Edit
-pip install requests beautifulsoup4
-Run the app:
+   ```bash
+   git clone https://github.com/abdul-samad-pk/motivational-quotes-gui.git
+   cd motivational-quotes-gui
+   ```
 
-bash
-Copy
-Edit
-python main.py
-📎 Quote Source
+2. **Install required libraries:**
+
+   ```bash
+   pip install requests beautifulsoup4
+   ```
+
+3. **Run the app:**
+
+   ```bash
+   python main.py
+   ```
+
+---
+
+## 📎 Quote Source
+
 Quotes are scraped live from:
-🔗 https://www.quotewis.com/random/motivational-quotes
+🔗 [https://www.quotewis.com/random/motivational-quotes](https://www.quotewis.com/random/motivational-quotes)
 
-📂 Project Structure
-css
-Copy
-Edit
+---
+
+## 📂 Project Structure
+
+```
 motivational-quotes-gui/
 ├── main.py
 ├── README.md
+```
 
-🙌 Let's Connect
+---
+
+## 🙌 Let's Connect
+
 If you liked this project or found it useful, feel free to star the repo and connect with me!
+
+🔗 [LinkedIn](https://www.linkedin.com/in/abdul-samad-pk/)
 🐍 #Python #Tkinter #MotivationalQuotes #OOP #ProjectShowcase
